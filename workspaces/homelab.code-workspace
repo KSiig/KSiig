@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../homelab/utility-images"
+		},
+		{
+			"path": "../homelab/config"
+		}
+	],
+	"settings": {}
+}

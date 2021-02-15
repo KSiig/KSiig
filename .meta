@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "homelab/utility-images": "git@github.com:KSiig/utility-images.git",
+    "homelab/config": "git@github.com:KSiig/config.git"
+  }
+}
