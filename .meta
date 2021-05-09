@@ -1,6 +1,9 @@
 {
   "projects": {
     "homelab/utility-images": "git@github.com:KSiig/utility-images.git",
-    "homelab/config": "git@github.com:KSiig/config.git"
+    "homelab/config": "git@github.com:KSiig/config.git",
+    "writing/blog": "git@github.com:KSiig/blog.git",
+    "writing/consultant-writing": "git@github.com:KSiig/consultant-writing.git",
+    "writing/CommunityWriterPrograms": "git@github.com:KSiig/CommunityWriterPrograms.git"
   }
 }
